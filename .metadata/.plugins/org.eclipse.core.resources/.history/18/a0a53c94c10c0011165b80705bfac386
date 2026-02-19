@@ -1,0 +1,5 @@
+spring.application.name=MakeMyTripProject
+
+
+server.port=7777
+spring.jpa.hibernate.ddl-auto=update
